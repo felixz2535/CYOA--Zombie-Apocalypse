@@ -7,4 +7,4 @@ Would you eat that person or just walk away?
 
 [Eat human](eat-human.md)
 
-[Just walk away](starve-to-death)
+[Just walk away](starve-to-death.md)
