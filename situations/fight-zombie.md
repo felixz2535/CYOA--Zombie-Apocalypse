@@ -4,4 +4,4 @@ You fought the zombie good thing you were not bitten. You thinnk to yourself if 
 
 
 
-[Restart](home.md)
+Click [here](home.md) to restart
