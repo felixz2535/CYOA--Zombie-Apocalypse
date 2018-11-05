@@ -2,4 +2,6 @@
 
 well, you just ate a human being. How do you feel?
 
-You are now really a **Zombie**, no offense. You will continue to eat humans forever now unless a cure gets developed! 
+You are now really a zombie, no offense. You will continue to eat humans forever now unless a cure gets devoloped! 
+
+Click [here](home.md) to restart! 
