@@ -1,7 +1,9 @@
 # Fight Zombie
 
-You fought the zombie good thing you were not bitten. You thinnk to yourself if there is anything you can do next.
+You just fought the zombie and won. Good thing you were not bitten. You think to yourself if there is anything you can do next.
 
+Go explore what has this zombie apocalypse brought to you! You go out and find an abandoned car with its keys. Would you take it or not?
 
+[Take the car](take-car.md)
 
-Click [here](home.md) to restart
+[Just Run](get-scratch.md)
