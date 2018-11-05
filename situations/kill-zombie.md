@@ -1,6 +1,6 @@
 # Kill-Zombie
 
-You look around and grabbed a knife and stab the zombie. It seems like it worked. For now you are safe, there isn't much to do except stayiing in your house. 
+You look around and grabbed a knife to stab the zombie. It seems like it worked. For now you are safe, there isn't much to do except staying in your house. 
 
 
 
