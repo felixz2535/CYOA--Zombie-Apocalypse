@@ -6,10 +6,10 @@ That person is a **Zombie**. He saw you and head towards your way. What should y
 
 **[Fight your way through](fight-zombie.md)**
 
-![](../images/fight.png)   
+![](../images/fight.png)      
 Credit goes to [pixabay.com](https://pixabay.com/en/anger-fight-male-man-men-office-1300528/)
 
 **[Run for your life](get-scratch.md)**
 
-![](../images/run.png)
+![](../images/run.png)   
 Credit goes to [pixabay.com](https://pixabay.com/en/kid-boy-fear-afraid-child-running-160097/)
