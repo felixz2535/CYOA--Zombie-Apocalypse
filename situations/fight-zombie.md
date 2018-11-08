@@ -6,4 +6,10 @@ Go explore what has this zombie apocalypse brought to you! You go out and find a
 
 [Take the car](take-car.md)
 
+![](../images/car.jpg)         
+Credit goes to [wired.com](https://www.wired.com/story/jaguar-ipace-electric-suv-review/)
+
 [Just Run](get-scratch.md)
+
+![](../images/just-run.jpg)    
+Credit goes to [shutterstock.com](https://www.shutterstock.com/search/zombie+cartoon)

@@ -12,5 +12,5 @@ Credit goes to [cartoonaday.com](http://www.cartoonaday.com/tag/zombie/)
 
 **[Ignore what you feel](starve-to-death.md)**
 
-![](../images/walk-away.jpg)      
-Credit goes to [smalleyinstitute.com](https://www.smalleyinstitute.com/blog/is-it-ok-to-walk-away-from-marriage)
+![](../images/ignore.jpg)   
+Credit goes to [seattletimes.com](https://www.seattletimes.com/explore/careers/when-the-boss-starts-to-ignore-you/)   
