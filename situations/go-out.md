@@ -7,4 +7,10 @@ Would you eat that person or just walk away?
 
 [Eat human](eat-human.md)
 
+![](../images/eat-human.jpg)     
+Credit goes to [cartoonaday.com](http://www.cartoonaday.com/tag/zombie/)
+
 [Just walk away](starve-to-death.md)
+
+![](../images/walk-away.jpg)       
+Credit goes to [smalleyinstitute.com](https://www.smalleyinstitute.com/blog/is-it-ok-to-walk-away-from-marriage)
