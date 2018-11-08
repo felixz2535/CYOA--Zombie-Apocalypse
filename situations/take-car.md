@@ -8,4 +8,10 @@ You managed to get out, but you got scratched by a zombie and now you are one, t
 
 [Eat human](eat-human.md)
 
+![](../images/eat-human.jpg)    
+Credit goes to [cartoonaday.com](http://www.cartoonaday.com/tag/zombie/)
+
 [Walk away](starve-to-death.md)
+
+![](../images/walk-away.jpg)    
+Credit goes to [smalleyinstitute.com](https://www.smalleyinstitute.com/blog/is-it-ok-to-walk-away-from-marriage)
