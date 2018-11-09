@@ -1,6 +1,6 @@
 # Home
 
-You woke up in the morninng and receive an invintation to a party. Your friends are all going and ask you to come as well.
+You wake up in the morning and receive an invintation to a party. Your friends are all going and ask you to come as well.
 
 Do you really want to go?
 
